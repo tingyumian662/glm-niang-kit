@@ -1,0 +1,5 @@
+edge-tts
+pillow
+playwright
+curl_cffi
+imageio-ffmpeg
